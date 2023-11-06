@@ -1,0 +1,259 @@
+Bus simulator is ready!
+There are a total of 20 events.
+6: Bus D1 arrives at OPP HSSML.
+8: Bus C arrives at KR BUS TERMINAL (START).
+9: Bus D1 arrives at OPP HSSML.
+9: Bus C arrives at JAPANESE PRI SCH.
+10: Bus D1 arrives at OPP NUSS.
+12: Bus D1 arrives at COM 2 (FROM HSSML).
+13: Bus D1 arrives at OPP NUSS.
+14: Bus A1 arrives at PGP (START).
+14: Bus D1 arrives at VENTUS (OPP LT 13).
+15: Bus B1 arrives at KR BUS TERMINAL.
+15: Bus D1 arrives at COM 2 (FROM HSSML).
+15: Bus D1 arrives at IT (OPP CLB).
+16: Bus D1 arrives at OPP YIH.
+17: Bus A1 arrives at KR MRT.
+17: Bus D1 arrives at VENTUS (OPP LT 13).
+18: Bus D1 arrives at MUSEUM.
+18: Bus D1 arrives at IT (OPP CLB).
+19: Bus C arrives at KENT VALE.
+19: Bus D1 arrives at UNIVERSITY TOWN.
+19: Bus D1 arrives at OPP YIH.
+20: Bus B1 arrives at IT (OPP CLB).
+20: Bus A1 arrives at LT 27.
+21: Bus D1 arrives at MUSEUM.
+21: Bus B1 arrives at OPP YIH.
+22: Bus D1 arrives at UNIVERSITY TOWN.
+22: Bus A1 arrives at UNIVERSITY HALL.
+22: Bus D1 arrives at YIH.
+22: Bus C arrives at MUSEUM.
+23: Bus B1 arrives at UNIVERSITY TOWN.
+23: Bus D1 arrives at CENTRAL LIBRARY.
+23: Bus C arrives at UNIVERSITY TOWN (FROM KR).
+24: Bus A1 arrives at OPP UHC.
+24: Bus D1 arrives at LT 13.
+25: Bus D1 arrives at YIH.
+25: Bus B1 arrives at YIH.
+25: Bus A1 arrives at YIH.
+26: Bus C arrives at UHC.
+26: Bus D1 arrives at CENTRAL LIBRARY.
+26: Bus B1 arrives at CENTRAL LIBRARY.
+26: Bus D1 arrives at OPP HSSML.
+27: Bus A1 arrives at CENTRAL LIBRARY.
+27: Bus C arrives at OPP UNIVERSITY HALL.
+27: Bus D1 arrives at LT 13.
+28: Bus B1 arrives at LT 13.
+29: Bus A1 arrives at LT 13.
+29: Bus C arrives at S 17 (OPP LT 27).
+29: Bus A1 arrives at PGP (START).
+30: Bus D1 arrives at OPP NUSS.
+30: Bus B1 arrives at AS 5.
+30: Bus C arrives at LT 27.
+31: Bus B1 arrives at BIZ 2.
+31: Bus C arrives at UNIVERSITY HALL.
+31: Bus D1 arrives at AS 5.
+32: Bus A1 arrives at KR MRT.
+32: Bus C arrives at OPP UHC.
+32: Bus D1 arrives at COM 2 (FROM HSSML).
+33: Bus D1 arrives at COM 2 (TO BIZ 2).
+34: Bus D1 arrives at OPP HSSML.
+34: Bus C arrives at UNIVERSITY TOWN (TO KR).
+34: Bus D1 arrives at VENTUS (OPP LT 13).
+34: Bus D1 arrives at AS 5.
+34: Bus A1 arrives at AS 5.
+35: Bus A1 arrives at LT 27.
+35: Bus D1 arrives at IT (OPP CLB).
+35: Bus C arrives at KR BUS TERMINAL (START).
+36: Bus D1 arrives at COM 2 (TO BIZ 2).
+36: Bus C arrives at RAFFLES HALL.
+36: Bus D1 arrives at OPP YIH.
+36: Bus C arrives at JAPANESE PRI SCH.
+37: Bus A1 arrives at UNIVERSITY HALL.
+37: Bus C arrives at EA.
+37: Bus D1 arrives at BIZ 2.
+38: Bus D1 arrives at MUSEUM.
+38: Bus D1 arrives at OPP NUSS.
+38: Bus C arrives at KR BUS TERMINAL (START).
+39: Bus A1 arrives at OPP UHC.
+39: Bus C arrives at KR BUS TERMINAL (END).
+39: Bus D1 arrives at UNIVERSITY TOWN.
+39: Bus C arrives at JAPANESE PRI SCH.
+40: Bus A1 arrives at YIH.
+40: Bus D1 arrives at COM 2 (FROM HSSML).
+40: Bus D1 arrives at BIZ 2.
+40: Bus A1 arrives at COM 2.
+40: Bus A1 arrives at PGP (START).
+42: Bus D1 arrives at YIH.
+42: Bus A1 arrives at CENTRAL LIBRARY.
+42: Bus D1 arrives at VENTUS (OPP LT 13).
+43: Bus D1 arrives at CENTRAL LIBRARY.
+43: Bus A1 arrives at BIZ 2.
+43: Bus A1 arrives at KR MRT.
+43: Bus D1 arrives at IT (OPP CLB).
+44: Bus A1 arrives at OPP TCOMS.
+44: Bus D1 arrives at LT 13.
+44: Bus A1 arrives at LT 13.
+44: Bus D1 arrives at OPP YIH.
+45: Bus A1 arrives at PGP (END).
+46: Bus A1 arrives at LT 27.
+46: Bus D1 arrives at MUSEUM.
+46: Bus C arrives at KENT VALE.
+47: Bus D1 arrives at UNIVERSITY TOWN.
+48: Bus A1 arrives at UNIVERSITY HALL.
+49: Bus A1 arrives at AS 5.
+49: Bus C arrives at KENT VALE.
+49: Bus C arrives at MUSEUM.
+50: Bus A1 arrives at OPP UHC.
+50: Bus D1 arrives at YIH.
+50: Bus C arrives at UNIVERSITY TOWN (FROM KR).
+51: Bus D1 arrives at AS 5.
+51: Bus A1 arrives at YIH.
+51: Bus D1 arrives at CENTRAL LIBRARY.
+52: Bus C arrives at MUSEUM.
+52: Bus B1 arrives at KR BUS TERMINAL.
+52: Bus D1 arrives at LT 13.
+53: Bus A1 arrives at CENTRAL LIBRARY.
+53: Bus C arrives at UNIVERSITY TOWN (FROM KR).
+53: Bus D1 arrives at COM 2 (TO BIZ 2).
+53: Bus C arrives at UHC.
+54: Bus C arrives at OPP UNIVERSITY HALL.
+55: Bus A1 arrives at COM 2.
+55: Bus A1 arrives at LT 13.
+56: Bus C arrives at S 17 (OPP LT 27).
+56: Bus C arrives at UHC.
+57: Bus D1 arrives at BIZ 2.
+57: Bus B1 arrives at IT (OPP CLB).
+57: Bus C arrives at LT 27.
+57: Bus C arrives at OPP UNIVERSITY HALL.
+58: Bus A1 arrives at PGP (START).
+58: Bus A1 arrives at BIZ 2.
+58: Bus B1 arrives at OPP YIH.
+58: Bus C arrives at UNIVERSITY HALL.
+59: Bus C arrives at S 17 (OPP LT 27).
+59: Bus C arrives at OPP UHC.
+59: Bus D1 arrives at AS 5.
+59: Bus A1 arrives at OPP TCOMS.
+60: Bus B1 arrives at UNIVERSITY TOWN.
+60: Bus A1 arrives at PGP (END).
+60: Bus A1 arrives at AS 5.
+60: Bus C arrives at LT 27.
+61: Bus D1 arrives at COM 2 (TO BIZ 2).
+61: Bus C arrives at UNIVERSITY HALL.
+61: Bus A1 arrives at KR MRT.
+61: Bus C arrives at UNIVERSITY TOWN (TO KR).
+62: Bus C arrives at KR BUS TERMINAL (START).
+62: Bus C arrives at OPP UHC.
+62: Bus B1 arrives at YIH.
+63: Bus C arrives at JAPANESE PRI SCH.
+63: Bus C arrives at RAFFLES HALL.
+63: Bus B1 arrives at CENTRAL LIBRARY.
+64: Bus C arrives at UNIVERSITY TOWN (TO KR).
+64: Bus C arrives at EA.
+64: Bus A1 arrives at LT 27.
+65: Bus D1 arrives at BIZ 2.
+65: Bus B1 arrives at LT 13.
+66: Bus C arrives at KR BUS TERMINAL (END).
+66: Bus A1 arrives at COM 2.
+66: Bus A1 arrives at UNIVERSITY HALL.
+66: Bus C arrives at RAFFLES HALL.
+67: Bus B1 arrives at AS 5.
+67: Bus C arrives at EA.
+68: Bus A1 arrives at OPP UHC.
+68: Bus B1 arrives at BIZ 2.
+69: Bus A1 arrives at YIH.
+69: Bus C arrives at KR BUS TERMINAL (END).
+69: Bus A1 arrives at BIZ 2.
+70: Bus A1 arrives at OPP TCOMS.
+71: Bus A1 arrives at CENTRAL LIBRARY.
+71: Bus A1 arrives at PGP (END).
+73: Bus A1 arrives at LT 13.
+73: Bus C arrives at KENT VALE.
+76: Bus C arrives at MUSEUM.
+77: Bus C arrives at UNIVERSITY TOWN (FROM KR).
+78: Bus A1 arrives at AS 5.
+80: Bus C arrives at UHC.
+81: Bus C arrives at OPP UNIVERSITY HALL.
+83: Bus C arrives at S 17 (OPP LT 27).
+84: Bus B1 arrives at KR BUS TERMINAL.
+84: Bus A1 arrives at COM 2.
+84: Bus C arrives at LT 27.
+85: Bus A1 arrives at PGP (START).
+85: Bus C arrives at UNIVERSITY HALL.
+86: Bus C arrives at OPP UHC.
+87: Bus A1 arrives at BIZ 2.
+88: Bus A1 arrives at KR MRT.
+88: Bus C arrives at UNIVERSITY TOWN (TO KR).
+88: Bus A1 arrives at OPP TCOMS.
+89: Bus B1 arrives at IT (OPP CLB).
+89: Bus A1 arrives at PGP (END).
+89: Bus A1 arrives at PGP (START).
+90: Bus C arrives at RAFFLES HALL.
+90: Bus B1 arrives at OPP YIH.
+90: Bus B1 arrives at KR BUS TERMINAL.
+91: Bus C arrives at EA.
+91: Bus A1 arrives at LT 27.
+92: Bus B1 arrives at UNIVERSITY TOWN.
+92: Bus A1 arrives at KR MRT.
+93: Bus A1 arrives at UNIVERSITY HALL.
+93: Bus C arrives at KR BUS TERMINAL (END).
+94: Bus B1 arrives at YIH.
+95: Bus A1 arrives at OPP UHC.
+95: Bus B1 arrives at CENTRAL LIBRARY.
+95: Bus B1 arrives at IT (OPP CLB).
+95: Bus A1 arrives at LT 27.
+96: Bus A1 arrives at YIH.
+96: Bus B1 arrives at OPP YIH.
+97: Bus B1 arrives at LT 13.
+97: Bus A1 arrives at UNIVERSITY HALL.
+98: Bus A1 arrives at CENTRAL LIBRARY.
+98: Bus D1 arrives at OPP HSSML.
+98: Bus B1 arrives at UNIVERSITY TOWN.
+99: Bus A1 arrives at OPP UHC.
+99: Bus B1 arrives at AS 5.
+99: Bus A1 arrives at PGP (START).
+100: Bus B1 arrives at BIZ 2.
+100: Bus A1 arrives at YIH.
+100: Bus B1 arrives at YIH.
+100: Bus A1 arrives at LT 13.
+101: Bus B1 arrives at CENTRAL LIBRARY.
+102: Bus A1 arrives at KR MRT.
+102: Bus D1 arrives at OPP NUSS.
+102: Bus A1 arrives at CENTRAL LIBRARY.
+103: Bus B1 arrives at LT 13.
+104: Bus A1 arrives at LT 13.
+104: Bus D1 arrives at COM 2 (FROM HSSML).
+105: Bus B1 arrives at AS 5.
+105: Bus A1 arrives at AS 5.
+105: Bus A1 arrives at LT 27.
+106: Bus D1 arrives at VENTUS (OPP LT 13).
+106: Bus B1 arrives at BIZ 2.
+107: Bus D1 arrives at IT (OPP CLB).
+107: Bus A1 arrives at UNIVERSITY HALL.
+108: Bus D1 arrives at OPP YIH.
+109: Bus A1 arrives at OPP UHC.
+109: Bus A1 arrives at AS 5.
+110: Bus A1 arrives at YIH.
+110: Bus D1 arrives at MUSEUM.
+111: Bus A1 arrives at COM 2.
+111: Bus D1 arrives at UNIVERSITY TOWN.
+112: Bus A1 arrives at CENTRAL LIBRARY.
+114: Bus D1 arrives at YIH.
+114: Bus A1 arrives at LT 13.
+114: Bus A1 arrives at BIZ 2.
+115: Bus D1 arrives at CENTRAL LIBRARY.
+115: Bus A1 arrives at OPP TCOMS.
+115: Bus A1 arrives at COM 2.
+116: Bus A1 arrives at PGP (END).
+116: Bus D1 arrives at LT 13.
+118: Bus A1 arrives at BIZ 2.
+119: Bus A1 arrives at AS 5.
+119: Bus A1 arrives at OPP TCOMS.
+120: Bus A1 arrives at PGP (END).
+123: Bus D1 arrives at AS 5.
+125: Bus A1 arrives at COM 2.
+125: Bus D1 arrives at COM 2 (TO BIZ 2).
+128: Bus A1 arrives at BIZ 2.
+129: Bus D1 arrives at BIZ 2.
+129: Bus A1 arrives at OPP TCOMS.
+130: Bus A1 arrives at PGP (END).

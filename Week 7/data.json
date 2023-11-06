@@ -1,0 +1,21 @@
+{
+" first_name ": "Ben",
+" last_name ": " Leong ",
+" age ": 21 ,
+" address ": {
+" street ": "15 Computing Drive , COM2 Building , #03 -20",
+" city ": " Singapore ",
+" state ": " Singapore ",
+" postal_code ": 117418
+} ,
+" phone_numbers ": [
+{
+" type ": " office ",
+" number ": " 6516 4240 "
+} ,
+{
+" type ": "fax",
+" number ": " 6779 4580 "
+}
+]
+}

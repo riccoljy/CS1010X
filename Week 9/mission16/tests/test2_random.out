@@ -1,0 +1,363 @@
+Bus simulator is ready!
+There are a total of 20 events.
+6: Bus D1 arrives at OPP HSSML.
+8: Bus C arrives at KR BUS TERMINAL (START).
+9: Bus D1 arrives at OPP HSSML.
+9: Bus C arrives at JAPANESE PRI SCH.
+10: Bus D1 arrives at OPP NUSS.
+10: Bus D1 has broken down at OPP HSSML.
+12: Bus D1 arrives at COM 2 (FROM HSSML).
+13: Bus D1 has broken down at COM 2 (FROM HSSML).
+14: Bus A1 arrives at PGP (START).
+15: Bus B1 arrives at KR BUS TERMINAL.
+17: Bus A1 arrives at KR MRT.
+19: Bus C arrives at KENT VALE.
+20: Bus D1 has been repaired at OPP HSSML.
+20: Bus B1 arrives at IT (OPP CLB).
+20: Bus A1 arrives at LT 27.
+21: Bus B1 has broken down at IT (OPP CLB).
+22: Bus C arrives at MUSEUM.
+22: Bus A1 arrives at UNIVERSITY HALL.
+23: Bus D1 has been repaired at COM 2 (FROM HSSML).
+23: Bus C arrives at UNIVERSITY TOWN (FROM KR).
+24: Bus D1 arrives at OPP NUSS.
+24: Bus A1 arrives at OPP UHC.
+25: Bus D1 arrives at VENTUS (OPP LT 13).
+25: Bus A1 arrives at YIH.
+26: Bus C arrives at UHC.
+26: Bus D1 arrives at COM 2 (FROM HSSML).
+26: Bus D1 has broken down at VENTUS (OPP LT 13).
+26: Bus A1 has broken down at YIH.
+26: Bus D1 arrives at OPP HSSML.
+27: Bus C arrives at OPP UNIVERSITY HALL.
+28: Bus D1 arrives at VENTUS (OPP LT 13).
+29: Bus C arrives at S 17 (OPP LT 27).
+29: Bus D1 has broken down at VENTUS (OPP LT 13).
+29: Bus A1 arrives at PGP (START).
+30: Bus D1 arrives at OPP NUSS.
+30: Bus C arrives at LT 27.
+31: Bus B1 has been repaired at IT (OPP CLB).
+31: Bus D1 has broken down at OPP NUSS.
+31: Bus C arrives at UNIVERSITY HALL.
+32: Bus A1 arrives at KR MRT.
+32: Bus B1 arrives at OPP YIH.
+32: Bus C arrives at OPP UHC.
+34: Bus D1 arrives at OPP HSSML.
+34: Bus B1 arrives at UNIVERSITY TOWN.
+34: Bus C arrives at UNIVERSITY TOWN (TO KR).
+35: Bus C arrives at KR BUS TERMINAL (START).
+35: Bus A1 arrives at LT 27.
+35: Bus B1 has broken down at UNIVERSITY TOWN.
+36: Bus C arrives at RAFFLES HALL.
+36: Bus C arrives at JAPANESE PRI SCH.
+36: Bus A1 has been repaired at YIH.
+36: Bus D1 has been repaired at VENTUS (OPP LT 13).
+37: Bus A1 arrives at UNIVERSITY HALL.
+37: Bus C arrives at EA.
+37: Bus D1 arrives at IT (OPP CLB).
+38: Bus D1 arrives at OPP NUSS.
+38: Bus A1 arrives at CENTRAL LIBRARY.
+38: Bus D1 has broken down at IT (OPP CLB).
+38: Bus C arrives at KR BUS TERMINAL (START).
+39: Bus D1 has been repaired at VENTUS (OPP LT 13).
+39: Bus A1 arrives at OPP UHC.
+39: Bus C arrives at KR BUS TERMINAL (END).
+39: Bus C arrives at JAPANESE PRI SCH.
+40: Bus C has broken down at KR BUS TERMINAL (END).
+40: Bus D1 arrives at COM 2 (FROM HSSML).
+40: Bus D1 arrives at IT (OPP CLB).
+40: Bus A1 arrives at YIH.
+40: Bus A1 arrives at PGP (START).
+40: Bus A1 arrives at LT 13.
+41: Bus D1 has been repaired at OPP NUSS.
+41: Bus D1 has broken down at COM 2 (FROM HSSML).
+41: Bus D1 arrives at OPP YIH.
+41: Bus A1 has broken down at LT 13.
+42: Bus D1 has broken down at OPP YIH.
+42: Bus A1 arrives at CENTRAL LIBRARY.
+43: Bus D1 arrives at COM 2 (FROM HSSML).
+43: Bus A1 arrives at KR MRT.
+44: Bus A1 arrives at LT 13.
+45: Bus D1 arrives at VENTUS (OPP LT 13).
+45: Bus B1 has been repaired at UNIVERSITY TOWN.
+46: Bus A1 arrives at LT 27.
+46: Bus D1 arrives at IT (OPP CLB).
+46: Bus C arrives at KENT VALE.
+47: Bus B1 arrives at YIH.
+47: Bus A1 has broken down at LT 27.
+47: Bus D1 arrives at OPP YIH.
+48: Bus D1 has been repaired at IT (OPP CLB).
+48: Bus B1 arrives at CENTRAL LIBRARY.
+49: Bus D1 arrives at OPP YIH.
+49: Bus A1 arrives at AS 5.
+49: Bus C arrives at KENT VALE.
+49: Bus C arrives at MUSEUM.
+49: Bus D1 arrives at MUSEUM.
+50: Bus B1 arrives at LT 13.
+50: Bus C arrives at UNIVERSITY TOWN (FROM KR).
+50: Bus D1 has broken down at MUSEUM.
+50: Bus C has been repaired at KR BUS TERMINAL (END).
+51: Bus D1 arrives at MUSEUM.
+51: Bus D1 has been repaired at COM 2 (FROM HSSML).
+51: Bus A1 has been repaired at LT 13.
+52: Bus B1 arrives at AS 5.
+52: Bus D1 arrives at UNIVERSITY TOWN.
+52: Bus C arrives at MUSEUM.
+52: Bus D1 has been repaired at OPP YIH.
+52: Bus B1 arrives at KR BUS TERMINAL.
+53: Bus D1 arrives at VENTUS (OPP LT 13).
+53: Bus B1 has broken down at AS 5.
+53: Bus C arrives at UNIVERSITY TOWN (FROM KR).
+53: Bus C arrives at UHC.
+54: Bus D1 arrives at MUSEUM.
+54: Bus D1 arrives at IT (OPP CLB).
+54: Bus C arrives at OPP UNIVERSITY HALL.
+55: Bus D1 has broken down at MUSEUM.
+55: Bus D1 arrives at OPP YIH.
+55: Bus A1 arrives at COM 2.
+55: Bus D1 arrives at YIH.
+56: Bus C arrives at UHC.
+56: Bus C arrives at S 17 (OPP LT 27).
+56: Bus D1 arrives at CENTRAL LIBRARY.
+56: Bus A1 arrives at AS 5.
+57: Bus D1 has broken down at CENTRAL LIBRARY.
+57: Bus C arrives at LT 27.
+57: Bus D1 arrives at MUSEUM.
+57: Bus C arrives at OPP UNIVERSITY HALL.
+57: Bus B1 arrives at IT (OPP CLB).
+57: Bus A1 has been repaired at LT 27.
+58: Bus C arrives at UNIVERSITY HALL.
+58: Bus D1 arrives at UNIVERSITY TOWN.
+58: Bus B1 arrives at OPP YIH.
+58: Bus A1 arrives at BIZ 2.
+58: Bus A1 arrives at PGP (START).
+59: Bus A1 arrives at OPP TCOMS.
+59: Bus A1 has broken down at PGP (START).
+59: Bus D1 has broken down at UNIVERSITY TOWN.
+59: Bus A1 arrives at UNIVERSITY HALL.
+59: Bus C arrives at S 17 (OPP LT 27).
+59: Bus C arrives at OPP UHC.
+60: Bus A1 arrives at PGP (END).
+60: Bus C arrives at LT 27.
+60: Bus C has broken down at OPP UHC.
+60: Bus D1 has been repaired at MUSEUM.
+60: Bus B1 arrives at UNIVERSITY TOWN.
+61: Bus A1 arrives at OPP UHC.
+61: Bus C arrives at UNIVERSITY HALL.
+61: Bus D1 arrives at UNIVERSITY TOWN.
+62: Bus B1 arrives at YIH.
+62: Bus A1 arrives at YIH.
+62: Bus C arrives at OPP UHC.
+62: Bus A1 arrives at COM 2.
+62: Bus C arrives at KR BUS TERMINAL (START).
+63: Bus B1 has broken down at YIH.
+63: Bus C arrives at JAPANESE PRI SCH.
+63: Bus B1 has been repaired at AS 5.
+64: Bus D1 arrives at YIH.
+64: Bus A1 arrives at CENTRAL LIBRARY.
+64: Bus B1 arrives at BIZ 2.
+64: Bus C arrives at UNIVERSITY TOWN (TO KR).
+65: Bus A1 arrives at BIZ 2.
+65: Bus D1 arrives at CENTRAL LIBRARY.
+65: Bus D1 has been repaired at MUSEUM.
+66: Bus D1 has broken down at CENTRAL LIBRARY.
+66: Bus D1 arrives at UNIVERSITY TOWN.
+66: Bus A1 arrives at LT 13.
+66: Bus C arrives at RAFFLES HALL.
+66: Bus A1 arrives at OPP TCOMS.
+67: Bus D1 has been repaired at CENTRAL LIBRARY.
+67: Bus C has broken down at RAFFLES HALL.
+67: Bus A1 arrives at PGP (END).
+68: Bus D1 arrives at LT 13.
+69: Bus D1 arrives at YIH.
+69: Bus D1 has been repaired at UNIVERSITY TOWN.
+69: Bus A1 has been repaired at PGP (START).
+70: Bus D1 has broken down at YIH.
+70: Bus C has been repaired at OPP UHC.
+71: Bus A1 arrives at AS 5.
+72: Bus D1 arrives at YIH.
+72: Bus A1 arrives at KR MRT.
+72: Bus C arrives at UNIVERSITY TOWN (TO KR).
+73: Bus D1 has broken down at YIH.
+73: Bus C arrives at KENT VALE.
+73: Bus B1 has been repaired at YIH.
+74: Bus C arrives at RAFFLES HALL.
+74: Bus B1 arrives at CENTRAL LIBRARY.
+75: Bus A1 arrives at LT 27.
+75: Bus C arrives at EA.
+75: Bus D1 arrives at AS 5.
+76: Bus C arrives at MUSEUM.
+76: Bus B1 arrives at LT 13.
+76: Bus D1 has broken down at AS 5.
+76: Bus D1 has been repaired at CENTRAL LIBRARY.
+77: Bus A1 arrives at COM 2.
+77: Bus C arrives at KR BUS TERMINAL (END).
+77: Bus D1 arrives at LT 13.
+77: Bus C arrives at UNIVERSITY TOWN (FROM KR).
+77: Bus A1 arrives at UNIVERSITY HALL.
+77: Bus C has been repaired at RAFFLES HALL.
+78: Bus B1 arrives at AS 5.
+78: Bus D1 has broken down at LT 13.
+78: Bus C arrives at EA.
+79: Bus B1 arrives at BIZ 2.
+79: Bus A1 arrives at OPP UHC.
+80: Bus B1 has broken down at BIZ 2.
+80: Bus A1 arrives at YIH.
+80: Bus C arrives at UHC.
+80: Bus A1 arrives at BIZ 2.
+80: Bus D1 has been repaired at YIH.
+80: Bus C arrives at KR BUS TERMINAL (END).
+81: Bus D1 arrives at CENTRAL LIBRARY.
+81: Bus A1 arrives at OPP TCOMS.
+81: Bus C arrives at OPP UNIVERSITY HALL.
+82: Bus A1 arrives at CENTRAL LIBRARY.
+82: Bus D1 has broken down at CENTRAL LIBRARY.
+82: Bus A1 arrives at PGP (END).
+83: Bus D1 has been repaired at YIH.
+83: Bus C arrives at S 17 (OPP LT 27).
+84: Bus D1 arrives at CENTRAL LIBRARY.
+84: Bus C arrives at LT 27.
+84: Bus B1 arrives at KR BUS TERMINAL.
+84: Bus A1 arrives at LT 13.
+85: Bus A1 arrives at PGP (START).
+85: Bus C arrives at UNIVERSITY HALL.
+85: Bus D1 has broken down at CENTRAL LIBRARY.
+86: Bus D1 has been repaired at AS 5.
+86: Bus C arrives at OPP UHC.
+88: Bus D1 has been repaired at LT 13.
+88: Bus C arrives at UNIVERSITY TOWN (TO KR).
+88: Bus A1 arrives at KR MRT.
+88: Bus D1 arrives at COM 2 (TO BIZ 2).
+89: Bus A1 arrives at AS 5.
+89: Bus A1 arrives at PGP (START).
+89: Bus B1 arrives at IT (OPP CLB).
+89: Bus D1 has broken down at COM 2 (TO BIZ 2).
+90: Bus B1 has been repaired at BIZ 2.
+90: Bus B1 arrives at KR BUS TERMINAL.
+90: Bus C arrives at RAFFLES HALL.
+90: Bus B1 arrives at OPP YIH.
+91: Bus A1 arrives at LT 27.
+91: Bus B1 has broken down at KR BUS TERMINAL.
+91: Bus C arrives at EA.
+92: Bus A1 arrives at KR MRT.
+92: Bus B1 arrives at UNIVERSITY TOWN.
+92: Bus D1 has been repaired at CENTRAL LIBRARY.
+93: Bus A1 arrives at UNIVERSITY HALL.
+93: Bus C arrives at KR BUS TERMINAL (END).
+93: Bus D1 arrives at LT 13.
+94: Bus A1 has broken down at UNIVERSITY HALL.
+94: Bus B1 arrives at YIH.
+95: Bus A1 arrives at COM 2.
+95: Bus B1 arrives at CENTRAL LIBRARY.
+95: Bus D1 arrives at AS 5.
+95: Bus D1 has been repaired at CENTRAL LIBRARY.
+95: Bus A1 arrives at LT 27.
+96: Bus D1 arrives at LT 13.
+97: Bus A1 arrives at UNIVERSITY HALL.
+97: Bus D1 arrives at COM 2 (TO BIZ 2).
+97: Bus B1 arrives at LT 13.
+98: Bus D1 arrives at OPP HSSML.
+98: Bus A1 arrives at BIZ 2.
+99: Bus D1 has broken down at OPP HSSML.
+99: Bus A1 arrives at OPP TCOMS.
+99: Bus A1 arrives at OPP UHC.
+99: Bus A1 arrives at PGP (START).
+99: Bus B1 arrives at AS 5.
+99: Bus D1 has been repaired at COM 2 (TO BIZ 2).
+100: Bus B1 has broken down at AS 5.
+100: Bus A1 arrives at PGP (END).
+100: Bus A1 arrives at YIH.
+100: Bus D1 arrives at AS 5.
+101: Bus D1 arrives at BIZ 2.
+101: Bus B1 has been repaired at KR BUS TERMINAL.
+102: Bus D1 arrives at COM 2 (TO BIZ 2).
+102: Bus A1 arrives at CENTRAL LIBRARY.
+102: Bus A1 arrives at KR MRT.
+103: Bus D1 arrives at BIZ 2.
+103: Bus D1 has broken down at COM 2 (TO BIZ 2).
+103: Bus A1 has broken down at KR MRT.
+103: Bus D1 arrives at AS 5.
+104: Bus D1 has broken down at BIZ 2.
+104: Bus A1 arrives at LT 13.
+104: Bus D1 has broken down at AS 5.
+104: Bus A1 has been repaired at UNIVERSITY HALL.
+106: Bus B1 arrives at IT (OPP CLB).
+106: Bus A1 arrives at OPP UHC.
+107: Bus B1 has broken down at IT (OPP CLB).
+107: Bus A1 arrives at YIH.
+108: Bus A1 has broken down at YIH.
+109: Bus A1 arrives at AS 5.
+109: Bus D1 has been repaired at OPP HSSML.
+110: Bus B1 has been repaired at AS 5.
+111: Bus B1 arrives at BIZ 2.
+113: Bus A1 has been repaired at KR MRT.
+113: Bus D1 arrives at OPP NUSS.
+113: Bus D1 has been repaired at COM 2 (TO BIZ 2).
+114: Bus D1 has been repaired at BIZ 2.
+114: Bus D1 has broken down at OPP NUSS.
+114: Bus D1 has been repaired at AS 5.
+115: Bus A1 arrives at COM 2.
+116: Bus D1 arrives at COM 2 (TO BIZ 2).
+116: Bus A1 arrives at LT 27.
+117: Bus D1 arrives at BIZ 2.
+117: Bus B1 has been repaired at IT (OPP CLB).
+118: Bus A1 has been repaired at YIH.
+118: Bus B1 arrives at OPP YIH.
+118: Bus A1 arrives at UNIVERSITY HALL.
+118: Bus A1 arrives at BIZ 2.
+119: Bus A1 arrives at OPP TCOMS.
+120: Bus B1 arrives at UNIVERSITY TOWN.
+120: Bus A1 arrives at PGP (END).
+120: Bus A1 arrives at CENTRAL LIBRARY.
+120: Bus D1 arrives at BIZ 2.
+120: Bus A1 arrives at OPP UHC.
+121: Bus A1 has broken down at PGP (END).
+121: Bus A1 arrives at YIH.
+122: Bus B1 arrives at YIH.
+122: Bus A1 arrives at LT 13.
+123: Bus B1 arrives at CENTRAL LIBRARY.
+123: Bus A1 arrives at CENTRAL LIBRARY.
+124: Bus D1 has been repaired at OPP NUSS.
+125: Bus A1 arrives at LT 13.
+125: Bus B1 arrives at LT 13.
+126: Bus D1 arrives at COM 2 (FROM HSSML).
+127: Bus B1 arrives at AS 5.
+127: Bus A1 arrives at AS 5.
+128: Bus B1 has broken down at AS 5.
+128: Bus D1 arrives at VENTUS (OPP LT 13).
+129: Bus D1 has broken down at VENTUS (OPP LT 13).
+130: Bus A1 arrives at AS 5.
+131: Bus A1 has been repaired at PGP (END).
+131: Bus A1 has broken down at AS 5.
+133: Bus A1 arrives at COM 2.
+136: Bus A1 arrives at BIZ 2.
+137: Bus A1 arrives at OPP TCOMS.
+138: Bus B1 has been repaired at AS 5.
+138: Bus A1 arrives at PGP (END).
+139: Bus B1 arrives at BIZ 2.
+139: Bus D1 has been repaired at VENTUS (OPP LT 13).
+140: Bus B1 has broken down at BIZ 2.
+140: Bus D1 arrives at IT (OPP CLB).
+141: Bus A1 has been repaired at AS 5.
+141: Bus D1 arrives at OPP YIH.
+143: Bus D1 arrives at MUSEUM.
+144: Bus D1 has broken down at MUSEUM.
+147: Bus A1 arrives at COM 2.
+150: Bus B1 has been repaired at BIZ 2.
+150: Bus A1 arrives at BIZ 2.
+151: Bus A1 arrives at OPP TCOMS.
+152: Bus A1 arrives at PGP (END).
+154: Bus D1 has been repaired at MUSEUM.
+155: Bus D1 arrives at UNIVERSITY TOWN.
+156: Bus D1 has broken down at UNIVERSITY TOWN.
+166: Bus D1 has been repaired at UNIVERSITY TOWN.
+169: Bus D1 arrives at YIH.
+170: Bus D1 has broken down at YIH.
+180: Bus D1 has been repaired at YIH.
+181: Bus D1 arrives at CENTRAL LIBRARY.
+182: Bus D1 arrives at LT 13.
+189: Bus D1 arrives at AS 5.
+191: Bus D1 arrives at COM 2 (TO BIZ 2).
+195: Bus D1 arrives at BIZ 2.
+196: Bus D1 has broken down at BIZ 2.
+206: Bus D1 has been repaired at BIZ 2.

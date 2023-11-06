@@ -1,0 +1,24 @@
+Bus simulator is ready!
+There are a total of 2 events.
+3: Bus A1 arrives at PGP (START).
+5: Bus B1 arrives at KR BUS TERMINAL.
+6: Bus A1 arrives at KR MRT.
+9: Bus A1 arrives at LT 27.
+10: Bus B1 arrives at IT (OPP CLB).
+11: Bus A1 arrives at UNIVERSITY HALL.
+11: Bus B1 arrives at OPP YIH.
+13: Bus A1 arrives at OPP UHC.
+13: Bus B1 arrives at UNIVERSITY TOWN.
+14: Bus A1 arrives at YIH.
+15: Bus B1 arrives at YIH.
+16: Bus A1 arrives at CENTRAL LIBRARY.
+16: Bus B1 arrives at CENTRAL LIBRARY.
+18: Bus A1 arrives at LT 13.
+18: Bus B1 arrives at LT 13.
+20: Bus B1 arrives at AS 5.
+21: Bus B1 arrives at BIZ 2.
+23: Bus A1 arrives at AS 5.
+29: Bus A1 arrives at COM 2.
+32: Bus A1 arrives at BIZ 2.
+33: Bus A1 arrives at OPP TCOMS.
+34: Bus A1 arrives at PGP (END).
